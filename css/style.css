@@ -25,5 +25,4 @@ article, aside, figure, footer, header, hgroup, nav, section { display:block; ma
 body { color:#999; background:#272822; }
 h1 { text-align:center; font-weight:bold; margin:5px 0; }
 .flickSlidr li { text-align:center; }
-.flickSlidr li img { padding:5px; background:#FFF; border:1px solid #ccc; box-shadow:0 2px 4px #000; cursor: }
-footer { margin-top:5px; text-align:center; background:#000; }
+.flickSlidr li img { padding:4px; background:#FFF; border:1px solid #000; }
