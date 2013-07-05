@@ -21,3 +21,5 @@ article, aside, figure, footer, header, hgroup, nav, section { display:block; ma
 /************************************************************
  * contents
  ************************************************************/
+
+li { text-align:center; }
