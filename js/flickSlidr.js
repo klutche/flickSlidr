@@ -71,7 +71,7 @@ flickSlidr.set = function() {
 				margin: 0,
 			});
 			$(".flickSlidrWrap" + tNum + " .flickSlidrNav").css({
-				marginTop: "-20px",
+				marginTop: "5px",
 				clear: "both",
 				lineHeight: 0,
 				textAlign: "center"

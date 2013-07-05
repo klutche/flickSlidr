@@ -22,4 +22,7 @@ article, aside, figure, footer, header, hgroup, nav, section { display:block; ma
  * contents
  ************************************************************/
 
-li { text-align:center; }
+body { color:#fff; background:#272822; }
+h1 { text-align:center; font-weight:bold; margin:20px 0; }
+.flickSlidr li { text-align:center; }
+.flickSlidr li img { padding:5px; background:#FFF; border:1px solid #ccc; box-shadow:0 2px 4px #000; }
